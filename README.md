@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevTedd
-- 👀 I’m interested in data driven decision, cloud computing and artificial inteligence..
+- 👀 I’m interested in data driven decisions, cloud computing and artificial inteligence..
 - 🌱 I’m currently learning  data science and machine learning ..
 - 💞️ I’m looking to collaborate on any kaggle competitons or ...
 - 📫 How to reach me here or my email kimanited73@gmail.com ...
