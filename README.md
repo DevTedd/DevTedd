@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevTedd
 - 👀 I’m working in business analysis, startup ventures, idea incubation and artificial inteligence..
-- 🌱 I’m currently working in a VC as an startup analyst and learning app dev in Flutter..
+- 🌱 I’m currently working as a business analyst..
 - 💞️ I’m looking to collaborate on any kaggle competitons or open source projects
 - 📫 How to reach me here or my email kimanited73@gmail.com ...
 - 👀 This is my linked in profile: https://www.linkedin.com/in/ted-mwangi/
