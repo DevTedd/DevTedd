@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevTedd
-- 👀 I’m working in data analysis, startup ventures, idea incubation and business inteligence..
-- 🌱 I’m currently working as a business analyst..
-- 💞️ I’m looking to collaborate on any kaggle competitons or open source projects
+- 👀 I’m working in data analysis, startup ventures, idea incubation, and business intelligence..
+- 🌱 I’m currently working as a Data Scientist in the Re-Insurance industry..
+- 💞️ I’m looking to collaborate on any competitions or projects
 - 📫 How to reach me here or my email kimanited73@gmail.com ...
 - 👀 This is my linked in profile: https://www.linkedin.com/in/ted-mwangi/
 
